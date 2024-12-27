@@ -1,2 +1,2 @@
 # Hummingbird
- A simple repo for simple folks
+ A minimalist repo for simple folks
